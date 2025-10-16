@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-New version\n-Bug fixeds",
+        "force_update": "true",
+        "package_name": "com.westpoint.createanimation.drawanimation",
+        "version_code": 12,
+        "version_name": "2.1",
+        "new_package_name": "com.westpoint.createanimation.drawanimation"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
